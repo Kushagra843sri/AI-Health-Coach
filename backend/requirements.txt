@@ -1,0 +1,13 @@
+FastAPI
+Uvicorn
+pymongo
+LangChain
+OpenAI
+faiss-cpu
+pydantic
+langchain-openai
+langchain-community
+langchain-embeddings
+langchain-textsplitter
+langchain
+
